@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Website Scraping Takealot](https://github.com/lmadisha/Website-Scrape-Takealot)
 
-- 💬 Ask me about **pyhton, pascal, html, delphi**
+- 💬 Ask me about **pyhton, pascal, html, delphi, Java, C, CSS, JavaScript**
 
 - 📫 How to reach me **lmadisha@icloud.com**
 
